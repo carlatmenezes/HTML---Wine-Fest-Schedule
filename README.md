@@ -1,5 +1,4 @@
-# HTML---Wine-Fest-Schedule
-Schedule
+
 <!DOCTYPE html>
 <html>
 <table>
